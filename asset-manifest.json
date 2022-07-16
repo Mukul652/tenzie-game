@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mukul652/tenzie-game/static/css/main.5e04ebed.css",
+    "main.js": "/Mukul652/tenzie-game/static/js/main.8e81b125.js",
+    "index.html": "/Mukul652/tenzie-game/index.html",
+    "main.5e04ebed.css.map": "/Mukul652/tenzie-game/static/css/main.5e04ebed.css.map",
+    "main.8e81b125.js.map": "/Mukul652/tenzie-game/static/js/main.8e81b125.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e04ebed.css",
+    "static/js/main.8e81b125.js"
+  ]
+}
